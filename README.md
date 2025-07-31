@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 80px; padding: 10px;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 80px; padding: 20px;">
 
   <img src="https://skillicons.dev/icons?i=angular" height="45"/>
   <img src="https://skillicons.dev/icons?i=react" height="45"/>
@@ -18,11 +18,16 @@
   <img src="https://skillicons.dev/icons?i=cs" height="45"/>
   <img src="https://skillicons.dev/icons?i=dotnet" height="45"/>
   <img src="https://skillicons.dev/icons?i=git" height="45"/>
-  <img src="https://skillicons.dev/icons?i=github" height="45"/>
-
 </div>
 
 </div>
+
+---
+## 🧰 Tools I Use
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,postman,github,figma,azure" />
+</p>
 
 ---
 
