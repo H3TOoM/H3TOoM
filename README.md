@@ -1,55 +1,39 @@
-<h1 align="center">Hi 👋, I'm Hatim Ragab</h1>
-<h3 align="center">Full Stack Web Developer | Angular & .NET Core Enthusiast</h3>
+<h1 align="center">Hi, I'm Hatim 👨‍💻</h1>
+<p align="center">Full Stack Developer | Angular & .NET Core</p>
 
 ---
 
-### 🧠 About Me
+### 🚀 Skills Progress
 
-- 👨‍💻 I specialize in **building scalable web applications** using Angular for the frontend and ASP.NET Core for the backend.
-- 🧱 I follow clean architecture principles and apply **separation of concerns** and **solid design patterns**.
-- 🛠️ I understand how to structure both monolithic and microservice-based applications.
-- 📊 I’m confident with both **code-first** and **database-first** approaches using **Entity Framework Core**.
-
----
-
-### 🛠️ Skills & Tech Stack
-
-- **Frontend**: Angular, HTML5, CSS3, Tailwind CSS, TypeScript, Reactive Forms
-- **Backend**: C#, ASP.NET Core MVC, Web API, Entity Framework Core, LINQ
-- **Architecture**: Clean Architecture, Repository Pattern, Service Layer, Dependency Injection
-- **Database**: SQL Server, EF Migrations, Stored Procedures
-- **Tools**: Git, GitHub, Postman, Swagger, VS Code, Visual Studio
+| Technology             | Level          |
+|------------------------|----------------|
+| Angular                | ██████████░░ 90% |
+| ASP.NET Core           | █████████░░░ 80% |
+| Entity Framework Core  | ████████░░░░ 70% |
+| SQL Server             | ████████░░░░ 70% |
+| Clean Architecture     | ███████░░░░░ 60% |
+| Git / GitHub           | ██████████░░ 90% |
 
 ---
 
-### 🧰 Favorite Practices
+### 🛠️ Tools I Use
 
-- Writing clean, maintainable, and testable code
-- Layered architecture with clear separation of concerns
-- Using Dependency Injection and Service abstraction
-- RESTful API design with proper validation and error handling
-- Working with Git and version control in a team environment
-
----
-
-### 🚀 I’m Exploring
-
-- Real-time applications with SignalR
-- Advanced .NET topics (Middleware, Identity, Authorization)
-- Scalable systems and database optimization
-
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HatimRagab&show_icons=true&theme=react" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HatimRagab&theme=react" />
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=angular,dotnet,cs,ts,html,css,tailwind,git,github,vscode,postman" />
 </p>
 
 ---
 
-### 📫 Reach Me
-- 📧 Email: hatimragab@email.com
-- 💼 LinkedIn: [linkedin.com/in/hatimragab](https://linkedin.com/in/hatimragab) *(اكتب اللينك الحقيقي لو عندك)*
+### 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HatimRagab&show_icons=true&theme=tokyonight" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HatimRagab&theme=tokyonight" height="150" />
+</p>
+
+---
+
+<p align="center">
+  <a href="mailto:hatimragab@email.com">📧 Contact Me</a> |
+  <a href="https://linkedin.com/in/hatimragab">🔗 LinkedIn</a>
+</p>
