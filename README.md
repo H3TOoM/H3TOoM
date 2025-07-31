@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Hatim Ragab</h1>
+<h1 align="center">🧠 Hatim Rajab Rabea</h1>
 <p align="center">Full Stack Web Developer — Angular / .NET Core</p>
 
 ---
