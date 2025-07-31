@@ -1,4 +1,4 @@
-<h1 align="center">🧠 Hatim Ragab</h1>
+-<h1 align="center">🧠 Hatim Ragab</h1>
 <p align="center">Frontend & Backend Developer — Angular / .NET Core</p>
 
 ---
@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; padding: 10px;">
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 80px; padding: 10px;">
 
   <img src="https://skillicons.dev/icons?i=angular" height="45"/>
   <img src="https://skillicons.dev/icons?i=react" height="45"/>
