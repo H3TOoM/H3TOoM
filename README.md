@@ -45,7 +45,7 @@
 ## 🧰 Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,github,figma,sql,azure,javascript" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman,github,figma,azure" />
 </p>
 
 ---
