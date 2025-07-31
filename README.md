@@ -45,7 +45,7 @@
 ## 🧰 Tools I Use
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,github,figma,sqlserver" />
+  <img src="https://skillicons.dev/icons?i=vscode,postman,github,figma,sqlserver,azure,javascript" />
 </p>
 
 ---
@@ -53,7 +53,7 @@
 ## 📫 Contact Me
 
 <p align="center">
-  <a href="mailto:hatimragab@email.com">📧 Email</a> •
-  <a href="https://linkedin.com/in/hatimragab">🔗 LinkedIn</a> •
-  <a href="https://github.com/HatimRagab">🐙 GitHub</a>
+  <a href="mailto:altorbed7@email.com">📧 Email</a> •
+  <a href="https://www.linkedin.com/in/h3tim">🔗 LinkedIn</a> •
+  <a href="https://github.com/H3TOom">🐙 GitHub</a>
 </p>
