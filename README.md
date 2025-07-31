@@ -8,7 +8,7 @@
 <div align="center">
 
 <!-- All Skills in One Line -->
-<img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,tailwind,cs,dotnet,postgres,mysql,git,github,vscode,linux" height="45"/>
+<img src="https://skillicons.dev/icons?i=angular,react,ts,js,html,css,tailwind,cs,dotnet,git,github" height="45"/>
 
 </div>
 
