@@ -1,5 +1,5 @@
 <h1 align="center">🧠 Hatim Rajab Rabea</h1>
-<p align="center">Full Stack Web Developer — Angular / .NET Core</p>
+<p align="center">Full Stack Web Developer — Angular & .NET Core</p>
 
 ---
 ## 🚀 Skills Overview
