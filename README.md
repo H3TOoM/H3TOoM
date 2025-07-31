@@ -15,11 +15,27 @@
 
 ---
 
-## 🧰 Tools I Use
+## 🚀 Skills Overview
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,github,figma,azure" />
-</p>
+<div align="center">
+
+<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px; padding: 10px;">
+
+  <img src="https://skillicons.dev/icons?i=angular" height="45"/>
+  <img src="https://skillicons.dev/icons?i=react" height="45"/>
+  <img src="https://skillicons.dev/icons?i=ts" height="45"/>
+  <img src="https://skillicons.dev/icons?i=js" height="45"/>
+  <img src="https://skillicons.dev/icons?i=html" height="45"/>
+  <img src="https://skillicons.dev/icons?i=css" height="45"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
+  <img src="https://skillicons.dev/icons?i=cs" height="45"/>
+  <img src="https://skillicons.dev/icons?i=dotnet" height="45"/>
+  <img src="https://skillicons.dev/icons?i=git" height="45"/>
+  <img src="https://skillicons.dev/icons?i=github" height="45"/>
+
+</div>
+
+</div>
 
 ---
 
