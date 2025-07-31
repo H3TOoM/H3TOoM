@@ -1,39 +1,54 @@
-<h1 align="center">Hatim Ragab 👨‍💻</h1>
-<p align="center">Full Stack Developer — Angular & .NET Core</p>
+<h2 align="center">💻 Hatim Ragab</h2>
+<p align="center">Frontend & Backend Developer — Angular / .NET Core</p>
 
 ---
 
-### 🚀 Tech Stack Progress
+<div align="center">
 
-| Tech                         |      |      |
-|-----------------------------|------|------|
-| <img src="https://skillicons.dev/icons?i=angular" width="20"/> Angular              | ▓▓▓▓▓▓▓▓▓░ 90% | 
-| <img src="https://skillicons.dev/icons?i=dotnet" width="20"/> ASP.NET Core         | ▓▓▓▓▓▓▓▓░░ 80% | 
-| <img src="https://skillicons.dev/icons?i=cs" width="20"/> C# / EF Core             | ▓▓▓▓▓▓▓░░░ 70% |
-| <img src="https://skillicons.dev/icons?i=ts" width="20"/> TypeScript               | ▓▓▓▓▓▓▓░░░ 70% |
-| <img src="https://skillicons.dev/icons?i=html,css" width="20"/> HTML / CSS         | ▓▓▓▓▓▓▓▓░░ 80% |
-| <img src="https://skillicons.dev/icons?i=git" width="20"/> Git / GitHub            | ▓▓▓▓▓▓▓▓▓░ 90% |
+<table>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=angular" width="24"/> Angular</td>
+<td><progress value="90" max="100"></progress> 90%</td>
+</tr>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=dotnet" width="24"/> ASP.NET Core</td>
+<td><progress value="80" max="100"></progress> 80%</td>
+</tr>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=cs" width="24"/> C# / EF Core</td>
+<td><progress value="75" max="100"></progress> 75%</td>
+</tr>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=html,css" width="24"/> HTML / CSS</td>
+<td><progress value="85" max="100"></progress> 85%</td>
+</tr>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=ts" width="24"/> TypeScript</td>
+<td><progress value="70" max="100"></progress> 70%</td>
+</tr>
+<tr>
+<td><img src="https://skillicons.dev/icons?i=git" width="24"/> Git / GitHub</td>
+<td><progress value="90" max="100"></progress> 90%</td>
+</tr>
+</table>
+
+</div>
 
 ---
 
-### ⚒️ Tools I Use
+<div align="center">
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,github,figma,tailwind,sqlserver" />
-</p>
+### 🧰 Tools
+<img src="https://skillicons.dev/icons?i=vscode,postman,github,figma,tailwind,sqlserver" />
 
----
-
-### 📊 Quick Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HatimRagab&show_icons=true&theme=tokyonight&hide_title=true&hide_border=true&hide_rank=true&include_all_commits=true&card_width=300" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HatimRagab&theme=tokyonight&hide_border=true" height="150"/>
-</p>
+</div>
 
 ---
 
-<p align="center">
-  <a href="mailto:hatimragab@email.com">📫 Email</a> •
-  <a href="https://linkedin.com/in/hatimragab">🔗 LinkedIn</a>
-</p>
+<div align="center">
+
+### 🔗 Contact Me  
+<a href="mailto:hatimragab@email.com">📧 Email</a> • 
+<a href="https://linkedin.com/in/hatimragab">LinkedIn</a>
+
+</div>
