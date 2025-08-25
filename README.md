@@ -1,40 +1,45 @@
-<h1 align="center">🧠 Hatim Rajab Rabea</h1>
-<p align="center">Full Stack Web Developer — Angular & .NET Core</p>
+<!-- Header -->
+<h1 align="center">Hi 👋, I'm Hatim</h1>
+<h3 align="center">🚀 Back-End .NET Developer | ASP.NET Core Enthusiast</h3>
 
 ---
-## 🚀 Skills Overview
 
-<div align="center">
-
-<div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 80px; padding: 20px;">
-
-  <img src="https://skillicons.dev/icons?i=angular" height="45"/>
-  <img src="https://skillicons.dev/icons?i=react" height="45"/>
-  <img src="https://skillicons.dev/icons?i=ts" height="45"/>
-  <img src="https://skillicons.dev/icons?i=js" height="45"/>
-  <img src="https://skillicons.dev/icons?i=html" height="45"/>
-  <img src="https://skillicons.dev/icons?i=css" height="45"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="45"/>
-  <img src="https://skillicons.dev/icons?i=cs" height="45"/>
-  <img src="https://skillicons.dev/icons?i=dotnet" height="45"/>
-  <img src="https://skillicons.dev/icons?i=git" height="45"/>
-</div>
-
-</div>
+<!-- About Me -->
+### 👨‍💻 About Me
+- 💻 Passionate **Back-End Developer** specialized in **C# & ASP.NET Core**  
+- 🛠 I build clean, scalable, and secure APIs  
+- 📚 Currently learning **Advanced EF Core & Clean Architecture**  
+- 🎯 Goal: To create impactful projects & contribute to open-source  
 
 ---
-## 🧰 Tools I Use
 
+<!-- Tech Stack -->
+### 🛠 Tech Stack
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,postman,github,figma,azure" />
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,js,html,css,git,github,postman,azure" />
 </p>
 
 ---
 
-## 📫 Contact Me
-
+<!-- GitHub Stats -->
+### 📊 GitHub Stats
 <p align="center">
-  <a href="mailto:altorbed7@email.com">📧 Email</a> •
-  <a href="https://www.linkedin.com/in/h3tim">🔗 LinkedIn</a> •
-  <a href="https://github.com/H3TOom">🐙 GitHub</a>
+  <img src="https://github-readme-stats.vercel.app/api?username=H3TOoM&show_icons=true&theme=tokyonight" height="180em"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=H3TOoM&theme=tokyonight" height="180em"/>
 </p>
+
+---
+
+<!-- Connect -->
+### 🌐 Connect with Me
+<p align="center">
+  <a href="https://linkedin.com/in/your-link" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://github.com/H3TOoM" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+</p>
+
+---
+⭐️ From [H3TOoM](https://github.com/H3TOoM)
