@@ -6,10 +6,12 @@
 
 <!-- About Me -->
 ### 👨‍💻 About Me
-- 💻 Passionate **Back-End Developer** specialized in **C# & ASP.NET Core**  
-- 🛠 I build clean, scalable, and secure APIs  
-- 📚 Currently learning **Advanced EF Core & Clean Architecture**  
-- 🎯 Goal: To create impactful projects & contribute to open-source  
+<p>
+  🌐 Back-End Developer focused on <b>C# & ASP.NET Core</b> <br>
+  ⚡ Passionate about building <b>clean & scalable APIs</b> <br>
+  📚 Currently diving into <b>EF Core & Clean Architecture</b> <br>
+  🎯 Striving for <b>high-quality, maintainable code</b> <br>
+</p>
 
 ---
 
