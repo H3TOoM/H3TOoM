@@ -33,7 +33,7 @@
 <!-- Connect -->
 ### 🌐 Connect with Me
 <p align="center">
-  <a href="https://linkedin.com/in/your-link" target="_blank">
+  <a href="https://www.linkedin.com/in/h3tim/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/H3TOoM" target="_blank">
