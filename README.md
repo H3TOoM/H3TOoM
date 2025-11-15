@@ -1,5 +1,4 @@
-<h1 align="center">Ladies and Gentelmans, I'm Hatim Rajab <br/> Machine Learning Engineer | Data Scientist</h1>
-
+<h1 align="center" style="margin-bottom: 30px;">Ladies and Gentelmans, I'm Hatim Rajab <br/> Machine Learning Engineer | Data Scientist</h1>
 
 
 
@@ -9,11 +8,8 @@
 </div>
 
 
----
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=H3TOoM&theme=github-dark&hide_border=true" />
 </div>
 
----
 
-<p align="center">Thanks for stopping by 👋</p>
