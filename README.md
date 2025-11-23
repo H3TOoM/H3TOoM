@@ -1,4 +1,4 @@
-<h1 align="center" style="margin-bottom: 30px;">Ladies and Gentelmans, I'm Hatim Rajab <br/> Machine Learning Engineer</h1>
+<h1 align="center" style="margin-bottom: 30px;">Ladies and Gentelmans, I'm Hatim Rajab <br/> Backend .NET Developer</h1>
 
 
 
